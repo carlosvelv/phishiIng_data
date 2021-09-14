@@ -1,2 +1,3 @@
-# phishiIng_data
-Obteniendo datos de Phishing a través de API con Python
+# Obteniendo datos de Phishing con la API de PhishStats
+
+Este repositorio contiene el Jupyter Notebook correspondiente al siguiente articulo de [Medium](https://link-url-here.org)
